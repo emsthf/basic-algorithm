@@ -15,4 +15,8 @@
 12. [암호](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/String/Password.java)
 
 ## Array(1,2차원 배열)
-1. [큰 수 출력하기]()
+1. [큰 수 출력하기](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/PrintLargeNumbers.java)
+2. [보이는 학생](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/StudentWhoSees.java)
+3. [가위바위보](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/RockPaperScissors.java)
+4. [피보나치 수열](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/FibonacciSequence.java)
+5. [소수(에라토스테네스 체)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/EratosthenesSieve.java)
