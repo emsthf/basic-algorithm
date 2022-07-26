@@ -20,3 +20,13 @@
 3. [가위바위보](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/RockPaperScissors.java)
 4. [피보나치 수열](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/FibonacciSequence.java)
 5. [소수(에라토스테네스 체)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/EratosthenesSieve.java)
+6. [뒤집은 소수](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/InvertedPrime.java)
+7. [점수 계산](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/ScoreCalculation.java)
+8. [등수 구하기](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/TakeTheRank.java)
+9. [격자판 최대합](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/GridMaxSum.java)
+10. [봉우리](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/Peaks.java)
+11. [임시반장정하기](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/InterimClassLeader.java)
+12. [멘토링](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/Mentoring.java)
+
+## Two pointers, Sliding window[효율성 : O(n^2)-->O(n)]
+1. [두 배열 합치기]()
