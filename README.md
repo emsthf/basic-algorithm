@@ -29,9 +29,9 @@
 12. [멘토링](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/Array/Mentoring.java)
 
 ## Two pointers, Sliding window[효율성 : O(n^2)-->O(n)]
-1. [두 배열 합치기(two pointers 알고리즘)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/twoPointers/ConcatTwoArrays.java)
-2. [공통 원소 구하기(two pointers 알고리즘)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/twoPointers/CommonElements.java)
-3. [최대 매출(sliding window)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/twoPointers/MaximumSales.java)
-4. [연속 부분 수열(복합적 문제)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/twoPointers/ContinuousSubsequence.java)
+1. [두 배열 합치기(two pointers 알고리즘)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/ConcatTwoArrays.java)
+2. [공통 원소 구하기(two pointers 알고리즘)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/CommonElements.java)
+3. [최대 매출(sliding window)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/MaximumSales.java)
+4. [연속 부분 수열(복합적 문제)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/ContinuousSubsequence.java)
 5. []()
 6. []()
