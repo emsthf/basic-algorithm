@@ -1,4 +1,4 @@
-package codingTest.algorithm.String;
+package codingTest.algorithm.string;
 
 import java.util.*;
 
