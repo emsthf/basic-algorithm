@@ -1,4 +1,4 @@
-package codingTest.algorithm.twoPointers;
+package codingTest.algorithm.efficiency;
 
 import java.util.*;
 
