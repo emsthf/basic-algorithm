@@ -33,9 +33,9 @@
 2. [공통 원소 구하기(two pointers 알고리즘)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/CommonElements.java)
 3. [최대 매출(sliding window)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/MaximumSales.java)
 4. [연속 부분 수열(복합적 문제)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/ContinuousSubsequence.java)
-5. [연속된 자연수의 합(two pointers)]()
-6. [연속된 자연수의 합(수학)]()
-7. [최대 길이 연속 부분 수열(복합적 문제)]()
+5. [연속된 자연수의 합(two pointers)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/SumOfConsecutiveNaturalNumbers1.java)
+6. [연속된 자연수의 합(수학)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/SumOfConsecutiveNaturalNumbers2.java)
+7. [최대 길이 연속 부분 수열(복합적 문제)](https://github.com/emsthf/basic-algorithm/blob/main/src/main/java/codingTest/algorithm/efficiency/MaximumLengthContinuousSubsequence.java)
 
 ## HashMap, TreeSet (해쉬, 정렬지원 Set)
 1. []()
